@@ -1,4 +1,4 @@
-gh-md-toc
+#gh-md-toc
 =========
 
 gh-md-toc — is for you if you **want to generate TOC** for README.md or
